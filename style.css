@@ -1,0 +1,33 @@
+
+/* 
+
+.article {
+    display:flex;
+    flex-direction: row;
+    
+}
+
+#article-one {
+    border-color: blue;
+    border-style: solid;
+    border-width: 1px;
+    width: 50vw;
+}
+
+#article-two {
+    border-color: red;
+    border-style: solid;
+    border-width: 1px;
+    width: 50vw;
+} */
+
+
+
+.disabled {
+    background-color: gray;
+}
+
+.enabled {
+    background-color: fuchsia;
+    color: goldenrod;
+}
